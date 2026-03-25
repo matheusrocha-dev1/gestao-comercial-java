@@ -1,7 +1,5 @@
 # Sistema de Gestão Comercial
 
-// MEU PRIMEIRO CRUD U.U
-
 Fiz esse projeto pra praticar Java na prática mesmo, saindo só da teoria.
 
 A ideia foi montar um sistema simples de cadastro, onde dá pra gerenciar clientes e produtos direto pelo console.
